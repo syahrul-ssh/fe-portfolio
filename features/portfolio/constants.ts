@@ -25,7 +25,7 @@ export const navigationItems = [
   { label: "Skills", href: "#skills", icon: Blocks },
   { label: "Projects", href: "#projects", icon: FolderKanban },
   { label: "Highlights", href: "#highlights", icon: Newspaper },
-  { label: "Journey", href: "#journey", icon: Network },
+  // { label: "Journey", href: "#journey", icon: Network },
   { label: "Contact", href: "#contact", icon: Mail },
 ];
 
