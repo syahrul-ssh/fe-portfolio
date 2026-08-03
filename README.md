@@ -2,6 +2,21 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+### Run with Docker
+
+Build and start the production app:
+
+```bash
+docker compose up --build
+```
+
+Open [http://localhost:3000](http://localhost:3000). To stop the container, press
+`Ctrl+C`, or run:
+
+```bash
+docker compose down
+```
+
 First, run the development server:
 
 ```bash
