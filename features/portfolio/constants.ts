@@ -36,16 +36,26 @@ export const metrics: Metric[] = [
   { icon: FolderKanban, value: "8+", label: "Projects Delivered" },
   { icon: Blocks, value: "14+", label: "Technologies" },
   { icon: ShieldCheck, value: "100%", label: "Commitment" },
-  { icon: Zap, value: "Status", label: "Casually Open to Work" },
+  { icon: Zap, value: "Status", label: "Let's Build Something Amazing Together!" },
 ];
 
 export const experiences: Experience[] = [
+  {
+    role: "Contract backend Developer",
+    company: "Nashta Group, Jakarta",
+    period: "March 2026 – Present",
+    highlights: ["Monitoring LNSW system that handled by Nashta Group",
+      "Resolve issues encountered on the LNSW system",
+      "Contribute on meeting tender with prospective client"
+    ],
+  },
   {
     role: "Freelance Backend Developer",
     company: "Vodjo, Bandung",
     period: "Nov 2025 – Apr 2026",
     highlights: ["Refactored code for better readability",
-      "Developed APIs for front-end needs"],
+      "Developed APIs for front-end needs"
+    ],
   },
   {
     role: "Contract Fullstack Developer",
